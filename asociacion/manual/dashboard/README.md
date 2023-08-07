@@ -1,6 +1,6 @@
 # Dashboard
 
-<figure><img src="../../../.gitbook/assets/Dashboard (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dash-asso.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Al acceder a la plataforma SOL, se le dirige al panel inicial del Sistema (Dashboard).

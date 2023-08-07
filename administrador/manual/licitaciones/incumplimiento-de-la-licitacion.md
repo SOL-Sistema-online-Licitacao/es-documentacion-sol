@@ -4,7 +4,7 @@
 
 Al acceder a los detalles de una oferta cuyo estado es "En análisis", puede hacer clic en <mark style="color:blue;">**`Licitación fallida`**</mark>.
 
-<figure><img src="../../../.gitbook/assets/Dados da Licitação (Em analise).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lici-apr.png" alt=""><figcaption></figcaption></figure>
 
 Debe rellenar y describir la razón del fallo.
 

@@ -6,7 +6,7 @@ En la página "Lotes y artículos", a la que se accede desde el menú lateral. A
 
 En caso de que sea del tipo "Precio por lote" o "Precio global", también se mostrará el botón <mark style="color:blue;">**`Rellenar propuesta`**</mark> mediante hoja de cálculo y deberá elegir uno de los métodos de relleno.
 
-<figure><img src="../../../.gitbook/assets/Lotes e itens (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/licit-prop1.png" alt=""><figcaption></figcaption></figure>
 
 ### Rellenar la propuesta a través del sistema
 
@@ -14,7 +14,7 @@ Si opta por rellenar su propuesta directamente en el Sistema, sólo tiene que ha
 
 A continuación, rellene el campo "Valor del flete". Si no hay gastos de transporte, debe rellenar el campo con el número cero (0).
 
-<figure><img src="../../../.gitbook/assets/Lotes e itens - Enviar proposta.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/licit-prop2.png" alt=""><figcaption></figcaption></figure>
 
 Con la propuesta cumplimentada, sólo tienes que hacer clic en Enviar propuesta. Una vez hecho esto, espere a que finalice el plazo para cerrar la licitación. Recibirás una notificación cuando la Asociación esté analizando las propuestas recibidas.
 
@@ -30,6 +30,6 @@ Al hacerlo, se inicia la descarga de un archivo en formato XLSX, que puede abrir
 
 A continuación, vuelve al Sistema y haz clic en el botón con la figura de clips, en la esquina derecha del campo "Hoja de cálculo", para adjuntar el archivo que acabas de rellenar.
 
-<figure><img src="../../../.gitbook/assets/Lotes e itens -Enviar proposta.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/licit-prop3.png" alt=""><figcaption></figcaption></figure>
 
 Una vez hecho esto, haga clic en <mark style="color:blue;">**`Enviar propuesta`**</mark>. En poco tiempo, el Sistema le enviará una notificación informándole si el procesamiento de la hoja de cálculo fue exitoso.

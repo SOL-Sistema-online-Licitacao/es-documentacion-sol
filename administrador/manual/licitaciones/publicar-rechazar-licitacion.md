@@ -4,7 +4,7 @@
 
 Acuando acceda a los detalles de una licitación cuyo estado sea "En espera de publicación", puede hacer clic en <mark style="color:blue;">**`Publicar licitación`**</mark> o <mark style="color:blue;">**`Rechazar licitación`**</mark>.
 
-<figure><img src="../../../.gitbook/assets/Dados da Licitação (Aguardando Liberação).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lici-apr.png" alt=""><figcaption></figcaption></figure>
 
 Si ha optado por rechazar la oferta, deberá cumplimentar y describir el motivo del rechazo.
 

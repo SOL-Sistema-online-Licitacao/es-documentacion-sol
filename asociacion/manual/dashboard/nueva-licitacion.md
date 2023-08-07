@@ -2,7 +2,7 @@
 
 ### ¿Cómo crear una nueva licitación?
 
-Para crear una nueva oferta, simplemente haga clic en el botón Crear oferta. Se le dirigirá a la pantalla "Nueva oferta", en la que deberá rellenar toda la información solicitada.
+Para crear una nueva oferta, simplemente haga clic en el botón Crear oferta. Se le dirigirá a la pantalla "Nueva Oferta", en la que deberá completar toda la información solicitada en todas las etapas del registro.
 
 {% hint style="info" %}
 Clasificación de la licitación:
@@ -28,7 +28,7 @@ Modalidad de la licitación:
 * **Invitación cerrada:** sólo los proveedores invitados pueden ver o participar en la licitación. La Asociación gestiona la invitación sólo a los proveedores que desea que participen en la licitación creada. Si el Proveedor invitado decide participar en la licitación, deberá presentar una propuesta que no podrá ser editada posteriormente.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Adicionar Licitações.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/licit-new1.png" alt=""><figcaption></figcaption></figure>
 
 A continuación, simplemente haga clic en <mark style="color:blue;">**`Crear licitación`**</mark> y su oferta se creará como "Borrador".
 

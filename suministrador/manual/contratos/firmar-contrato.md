@@ -10,8 +10,6 @@ Para comprobar los detalles del contrato o firmarlo, pulse sobre él. La página
 
 Si el Suministrador no tiene ningún problema respecto a las cantidades y plazos exigidos en el contrato, deberá pulsar en <mark style="color:blue;">**`Aceptar`**</mark>. De este modo, firmará digitalmente el contrato.
 
-<figure><img src="../../../.gitbook/assets/Contrato (assinado) (1).png" alt=""><figcaption></figcaption></figure>
-
 Al hacer clic en <mark style="color:blue;">**`Aceptar`**</mark> en la página mostrada arriba, el Sistema le pedirá que confirme la acción. El estado del contrato se actualizará a "Firmado".
 
 ### Rechazar contrato

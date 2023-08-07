@@ -1,8 +1,8 @@
 # Licitaciones
 
-En la pestaña "Licitaciones", accesible a través del menú principal o haciendo clic en la página de inicio del Sistema, se le dirige a la pestaña "Licitaciones", podrá ver una lista de todas las licitaciones registradas en el Sistema, incluso las ya finalizadas.
+En la pestaña "Ofertas", accesible a través del menú principal o haciendo clic en la página de inicio del Sistema, se le dirige a la pestaña "Ofertas", donde puede ver una lista de todas las ofertas en las que participa el proveedor, incluso aquellas ya concluido.
 
-<figure><img src="../../../.gitbook/assets/Licitações (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/licit.png" alt=""><figcaption></figcaption></figure>
 
 ### Tipos de licitación
 
@@ -30,4 +30,4 @@ Las únicas diferencias entre las ofertas presentadas para "Invitación cerrada"
 
 Para acceder a la información completa sobre una oferta, basta con hacer clic en ella en la página de inicio del Sistema o en el área de ofertas.
 
-<figure><img src="../../../.gitbook/assets/Dados da Licitação (Cancelada).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lici-dado-forn.png" alt=""><figcaption></figcaption></figure>
