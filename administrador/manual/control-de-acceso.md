@@ -10,7 +10,7 @@ Link:
 
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/login.png" alt=""><figcaption></figcaption></figure>
 
 ### He olvidado mi contraseña
 
@@ -18,14 +18,10 @@ Para recuperar el acceso, haga clic en la pantalla de inicio de sesión en <mark
 
 Introduzca la dirección de correo electrónico registrada y haga clic en <mark style="color:blue;">**`Confirmar`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/esqueci (1).png" alt=""><figcaption></figcaption></figure>
 
 Recibirás un código para validar tu correo electrónico. Introduzca el código y haga clic en <mark style="color:blue;">**`Continuar.`**</mark>
-
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Con el código validado cree una nueva contraseña y confirme la nueva contraseña. Haga clic en <mark style="color:blue;">**`Continuar`**</mark>.
 
 Listo, ¡ya puedes iniciar sesión con tu nueva contraseña!
-
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>

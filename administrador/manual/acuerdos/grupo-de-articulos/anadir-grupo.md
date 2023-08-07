@@ -8,6 +8,6 @@ Cada grupo puede contener varios artículos. Para añadirlos, basta con teclear 
 
 Entonces sólo tiene que seleccionar el artículo que desee, especificar la cantidad, el coste estimado y hacer clic en <mark style="color:blue;">**`Añadir`**</mark>. Repita esta operación tantas veces como sea necesario para completar su nuevo grupo de artículos.
 
-<figure><img src="../../../../.gitbook/assets/novo grupo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/grp-new.png" alt=""><figcaption></figcaption></figure>
 
 Una vez rellenados todos los campos, haz clic en <mark style="color:blue;">**`Crear grupo`**</mark>.

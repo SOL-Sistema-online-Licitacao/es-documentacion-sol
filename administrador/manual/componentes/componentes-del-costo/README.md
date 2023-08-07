@@ -6,10 +6,10 @@ En la pestaña "Componentes del costo", accesible a través del menú principal 
 Cabe destacar que si los datos de los Elementos de Coste se han importado desde una integración, no podrá editarlos, independientemente de cuál sea su Perfil de Administrador.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Itens de Custo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/itens.png" alt=""><figcaption></figcaption></figure>
 
 ### ¿Cómo ver los detalles de un artículo?
 
 Al hacer clic en uno de los elementos, se accede a la página con los datos generales, incluido el segmento y la categoría a la que pertenece.
 
-<figure><img src="../../../.gitbook/assets/Dados do item.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/itens-dado.png" alt=""><figcaption></figcaption></figure>

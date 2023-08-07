@@ -4,4 +4,4 @@ Para acceder a la lista de usuarios de la asociación, haga clic en el menú lat
 
 La lista muestra la información Nombre, Correo electrónico, CPF (NIE) /CNPJ (RUC) y Asociación. Es posible realizar búsquedas por texto utilizando la información de la lista.
 
-<figure><img src="../../../../.gitbook/assets/lista user associação.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/us-asso.png" alt=""><figcaption></figcaption></figure>

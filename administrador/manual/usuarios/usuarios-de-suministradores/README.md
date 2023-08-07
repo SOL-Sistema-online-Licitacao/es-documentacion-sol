@@ -4,4 +4,4 @@ Para acceder a la lista de usuarios suministradores pulse en el menú lateral en
 
 La lista muestra la información Nombre, Correo electrónico, CPF (NIE) /CNPJ (RUC) y Asociación. Es posible realizar búsquedas por texto utilizando la información de la lista.
 
-<figure><img src="../../../../.gitbook/assets/lista user fornecedor.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/us-forn.png" alt=""><figcaption></figcaption></figure>
