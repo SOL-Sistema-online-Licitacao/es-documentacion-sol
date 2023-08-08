@@ -116,3 +116,8 @@
   * [Perfil](asociacion/manual/perfil/README.md)
     * [Modificar datos](asociacion/manual/perfil/modificar-datos.md)
     * [Cambiar contraseña](asociacion/manual/perfil/cambiar-contrasena.md)
+
+## instalación
+
+* [Instalación de API](instalacion/instalacion-de-api.md)
+* [Instalación de interfaz](instalacion/instalacion-de-interfaz.md)
